@@ -1,5 +1,5 @@
-# RSA-Regression
-Regularization Self-Attention Regression
+# Gold Price Prediction based Deep Learning with Self-Attention
+Gold Price prediction based on regularization self-attention (RSA) regression
 
 ## Installation
 - Python 2.7   
@@ -37,7 +37,7 @@ dataset: Gold-price and Palladium-price
 ## Citation
 ```
 @ARTICLE{8943215,
-  author={J. {Zhou} and Z. {He} and Y. N. {Song} and H. {Wang} and X. {Yang} and W. {Lian} and H. {Dai}},
+  author={J. {Zhou} and Z. {He} and Y. N. {Song} and H. {Wang} and X. {Yang} and W. {Lian} and H.-N. {Dai}},
   journal={IEEE Access}, 
   title={Precious Metal Price Prediction Based on Deep Regularization Self-Attention Regression}, 
   year={2020},
